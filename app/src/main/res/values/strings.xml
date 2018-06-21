@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdagaLab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="some_frag">Some Frag</string>
+    <string name="another_frag">another frag</string>
+</resources>
